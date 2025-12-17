@@ -1,0 +1,17 @@
+Solution for Shortest Path Problem 4-2-1
+
+12-17-2025	From	To	Distance/Cost	Cumulative Distance/Cost
+1	V1	V3	3	3
+2	V3	V2	2	5
+3	V2	V5	1	6
+4	V5	V8	6	12
+				
+	From V1	To V8	=	12
+	From V1	To V2	=	5
+	From V1	To V3	=	3
+	From V1	To V4	=	1
+	From V1	To V5	=	6
+	From V1	To V6	=	10
+	From V1	To V7	=	9
+	From V1	To V9	=	M
+
