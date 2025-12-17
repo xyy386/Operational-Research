@@ -1,0 +1,8 @@
+Unboundedness Analysis for 1-3
+
+Unbounded	solution!!!	Make any of	the following	changes and	solve it again.
+					
+12-10-2025	 	Decision	Coefficient	Subtract More Than	Or Add More Than
+14:50:47	Constraint	Variable	A(i,j)	This From A(i,j)	This To A(i,j)
+	Change	the direction	of constraint	C1	
+

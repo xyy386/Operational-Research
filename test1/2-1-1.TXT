@@ -1,0 +1,19 @@
+Combined Report for 2-1
+
+	15:37:11		2025-12-10 15:37:11 下午	2025-12-10 15:37:11 下午	2025-12-10 15:37:11 下午	2025-12-10 15:37:11 下午		
+								
+	Decision	Solution	Unit Cost or	Total	Reduced	Basis	Allowable	Allowable
+	Variable	Value	Profit c(j)	Contribution	Cost	Status	Min. c(j)	Max. c(j)
+								
+1	X1	2.0000	3.0000	6.0000	0	basic	0	7.5000
+2	X2	6.0000	5.0000	30.0000	0	basic	2.0000	M
+								
+	Objective	Function	(Max.) =	36.0000				
+								
+	 	Left Hand	 	Right Hand	Slack	Shadow	Allowable	Allowable
+	Constraint	Side	Direction	Side	or Surplus	Price	Min. RHS	Max. RHS
+								
+1	C1	2.0000	<=	4.0000	2.0000	0	2.0000	M
+2	C2	12.0000	<=	12.0000	0	1.5000	6.0000	18.0000
+3	C3	18.0000	<=	18.0000	0	1.0000	12.0000	24.0000
+

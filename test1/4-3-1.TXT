@@ -1,0 +1,9 @@
+Solution for 4-3: Minimization (Assignment Problem)
+
+12-10-2025	From	To	Assignment	Unit Cost	Total Cost	Reduced Cost
+1	Assignment 1	Assignee 2	1	15	15	0
+2	Assignment 2	Assignee 3	1	5	5	0
+3	Assignment 3	Assignee 1	1	6	6	0
+						
+	Total	Objective	Function	Value =	26	
+

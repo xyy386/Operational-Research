@@ -1,0 +1,9 @@
+Infeasibility Analysis for 1-4
+
+Infeasible	solution!!!	Make any of	the following	RHS changes	and solve the	problem again.
+						
+12-10-2025	 	 	Right Hand	Shadow	Add More Than	Add Up To
+14:55:09	Constraint	Direction	Side	Price	This To RHS	This To RHS
+1	C1	<=	5.0000	1.0000	0.3333	M
+2	C2	>=	16.0000	0	-M	-1.0000
+
