@@ -1,0 +1,100 @@
+Combined Report for GP Sample Problem
+
+	11:28:28		Wednesday	December	24	2025					
+											
+	Goal	Decision	Solution	Unit Cost or	Total	Reduced	Allowable	Allowable			
+	Level	Variable	Value	Profit c(j)	Contribution	Cost	Min. c(j)	Max. c(j)			
+											
+1	G1	X1	25.07	0	0	0	0	0			
+2	G1	X2	49.91	0	0	0	0	0			
+3	G1	X3	0	0	0	0	0	M			
+4	G1	X4	0	0	0	0	0	M			
+5	G1	X5	10.00	0	0	0	0	0			
+6	G1	d1-	0	1.00	0	1.00	0	M			
+7	G1	d1+	0	1.00	0	1.00	0	M			
+8	G1	d2-	0	0	0	0	0	M			
+9	G1	d2+	0	0	0	0	0	M			
+10	G1	d3-	0	0	0	0	0	M			
+11	G1	d3+	123.48	0	0	0	0	0			
+12	G1	d4-	0	0	0	0	0	M			
+13	G1	d4+	2.39	0	0	0	0	0			
+14	G1	d5-	70.16	0	0	0	0	0			
+15	G1	d5+	0	0	0	0	0	M			
+16	G1	d6-	55.71	0	0	0	0	0			
+17	G1	d6+	0	0	0	0	0	M			
+18	G1	d7-	0	0	0	0	0	M			
+19	G1	d7+	0	0	0	0	0	M			
+20	G2	X1	25.07	0	0	0	0	0			
+21	G2	X2	49.91	0	0	0	0	0			
+22	G2	X3	0	0	0	0	0	M			
+23	G2	X4	0	0	0	0	0	M			
+24	G2	X5	10.00	0	0	0	0	0			
+25	G2	d1-	0	0	0	0	-M	M			
+26	G2	d1+	0	0	0	0	-M	M			
+27	G2	d2-	0	1.00	0	0	1.00	M			
+28	G2	d2+	0	0	0	0	0	M			
+29	G2	d3-	0	0	0	0	0	M			
+30	G2	d3+	123.48	0	0	0	0	0			
+31	G2	d4-	0	0	0	0	0	M			
+32	G2	d4+	2.39	0	0	0	0	0			
+33	G2	d5-	70.16	0	0	0	0	0			
+34	G2	d5+	0	0	0	0	0	M			
+35	G2	d6-	55.71	0	0	0	0	0			
+36	G2	d6+	0	0	0	0	0	M			
+37	G2	d7-	0	0	0	0	0	M			
+38	G2	d7+	0	0	0	0	0	M			
+39	G3	X1	25.07	0	0	0	1.47	0			
+40	G3	X2	49.91	0	0	0	-0.69	-2.38			
+41	G3	X3	0	0	0	0	0	M			
+42	G3	X4	0	0	0	1.12	-1.12	M			
+43	G3	X5	10.00	0	0	0	-1.99	-1.99			
+44	G3	d1-	0	0	0	-0.25	-M	M			
+45	G3	d1+	0	0	0	0.25	-M	M			
+46	G3	d2-	0	0	0	-2.10	2.10	M			
+47	G3	d2+	0	0	0	1.18	-1.18	M			
+48	G3	d3-	0	1.00	0	2.00	-1.00	M			
+49	G3	d3+	123.48	1.00	123.48	0	1.00	-2.74			
+50	G3	d4-	0	1.00	0	2.00	-1.00	M			
+51	G3	d4+	2.39	1.00	2.39	0	3.57	-3.30			
+52	G3	d5-	70.16	1.00	70.16	0	1.00	-0.28			
+53	G3	d5+	0	1.00	0	2.00	-1.00	M			
+54	G3	d6-	55.71	1.00	55.71	0	4.58	2.02			
+55	G3	d6+	0	1.00	0	2.00	-1.00	M			
+56	G3	d7-	0	0	0	-0.10	0.10	M			
+57	G3	d7+	0	0	0	0.10	-0.10	M			
+58	G4	X1	25.07	0	0	0	0	0			
+59	G4	X2	49.91	0	0	0	-M	0			
+60	G4	X3	0	0	0	0	0	M			
+61	G4	X4	0	0	0	0	-M	M			
+62	G4	X5	10.00	0	0	0	-M	20.00			
+63	G4	d1-	0	0	0	0	-M	M			
+64	G4	d1+	0	0	0	0	-M	M			
+65	G4	d2-	0	0	0	0	0	M			
+66	G4	d2+	0	0	0	0	-M	M			
+67	G4	d3-	0	0	0	0	-M	M			
+68	G4	d3+	123.48	0	0	0	0	0			
+69	G4	d4-	0	0	0	0	-M	M			
+70	G4	d4+	2.39	0	0	0	0	43.24			
+71	G4	d5-	70.16	0	0	0	0	0			
+72	G4	d5+	0	0	0	0	-M	M			
+73	G4	d6-	55.71	0	0	0	0	M			
+74	G4	d6+	0	0	0	0	-M	M			
+75	G4	d7-	0	1.00	0	1.00	0	M			
+76	G4	d7+	0	1.00	0	1.00	-M	M			
+											
+	G1	Goal	Value	(Min.) =	0	(Alternate	Solution	Exists!!)			
+	G2	Goal	Value	(Min.) =	0						
+	G3	Goal	Value	(Min.) =	251.74						
+	G4	Goal	Value	(Min.) =	0						
+											
+	 	Left Hand	 	Right Hand	Slack	Allowable	Allowable	ShadowPrice	ShadowPrice	ShadowPrice	ShadowPrice
+	Constraint	Side	Direction	Side	or Surplus	Min. RHS	Max. RHS	Goal 1	Goal 2	Goal 3	Goal 4
+											
+1	C1	1,000.00	=	1,000.00	0	0.00	M	0	0	0.25	0
+2	C2	0.00	=	0	0	-29.03	2.93	0	0	1.18	0
+3	C3	0	=	0	0	-M	123.48	0	0	-1.00	0
+4	C4	0.00	=	0	0	-M	2.39	0	0	-1.00	0
+5	C5	0	=	0	0	-70.16	M	0	0	1.00	0
+6	C6	0.00	=	0	0	-55.71	M	0	0	1.00	0
+7	C7	0	=	0	0	-103.37	212.12	0	0	0.10	0
+
